@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1482317682 source:d:\projects\firsttermproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<ctype.h>
+	<math.h>
+	<pthread.h>
+	<string.h>
+	"Global.h"
+	"structs.h"
+	"animation.h"
+	"indepFunctions.h"
+	"myFiles.h"
+	"mainLine.h"
+	"GameLogic.h"
+	"loopCore.h"
+	"scores.h"
+	"sounds.h"
+
+1482317819 d:\projects\firsttermproject\animation.h
+
+1482309753 d:\projects\firsttermproject\global.h
+
+1481978653 d:\projects\firsttermproject\indepfunctions.h
+
+1481752816 d:\projects\firsttermproject\structs.h
+
+1482317393 d:\projects\firsttermproject\myfiles.h
+
+1482317870 d:\projects\firsttermproject\mainline.h
+
+1482309977 d:\projects\firsttermproject\gamelogic.h
+
+1482275627 d:\projects\firsttermproject\loopcore.h
+
+1482313396 d:\projects\firsttermproject\scores.h
+
+1482258149 d:\projects\firsttermproject\sounds.h
+
+1482949103 source:d:\csed 20\programming\programs\final one\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<ctype.h>
+	<math.h>
+	<pthread.h>
+	<string.h>
+	"Global.h"
+	"structs.h"
+	"animation.h"
+	"indepFunctions.h"
+	"myFiles.h"
+	"mainLine.h"
+	"GameLogic.h"
+	"loopCore.h"
+	"scores.h"
+	"sounds.h"
+
+1482309754 d:\csed 20\programming\programs\final one\global.h
+
+1481752818 d:\csed 20\programming\programs\final one\structs.h
+
+1482931985 d:\csed 20\programming\programs\final one\animation.h
+
+1481978654 d:\csed 20\programming\programs\final one\indepfunctions.h
+
+1482929594 d:\csed 20\programming\programs\final one\myfiles.h
+
+1482931965 d:\csed 20\programming\programs\final one\mainline.h
+
+1482928403 d:\csed 20\programming\programs\final one\gamelogic.h
+
+1482928499 d:\csed 20\programming\programs\final one\loopcore.h
+
+1482951482 d:\csed 20\programming\programs\final one\scores.h
+
+1482258150 d:\csed 20\programming\programs\final one\sounds.h
+
+1482949103 source:d:\csed 20\programming\programs\final app\final one\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<ctype.h>
+	<math.h>
+	<pthread.h>
+	<string.h>
+	"Global.h"
+	"structs.h"
+	"animation.h"
+	"indepFunctions.h"
+	"myFiles.h"
+	"mainLine.h"
+	"GameLogic.h"
+	"loopCore.h"
+	"scores.h"
+	"sounds.h"
+
+1482309754 d:\csed 20\programming\programs\final app\final one\global.h
+
+1481752818 d:\csed 20\programming\programs\final app\final one\structs.h
+
+1482931985 d:\csed 20\programming\programs\final app\final one\animation.h
+
+1481978654 d:\csed 20\programming\programs\final app\final one\indepfunctions.h
+
+1482929594 d:\csed 20\programming\programs\final app\final one\myfiles.h
+
+1482931965 d:\csed 20\programming\programs\final app\final one\mainline.h
+
+1482928403 d:\csed 20\programming\programs\final app\final one\gamelogic.h
+
+1482928499 d:\csed 20\programming\programs\final app\final one\loopcore.h
+
+1482956261 d:\csed 20\programming\programs\final app\final one\scores.h
+
+1482258150 d:\csed 20\programming\programs\final app\final one\sounds.h
+
